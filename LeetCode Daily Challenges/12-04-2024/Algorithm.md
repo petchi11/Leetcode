@@ -18,3 +18,8 @@ If there are gaps between the bar then, there will be water. so, inbetween the l
     - move the end pointer to next position. (reverse).
 - return `count`.
 
+### Complexity Analysis
+
+- **Time Complexity** of this Algorithm is `O(n)`. 
+
+- **Space Complexity** is `O(1)`. no extra space.

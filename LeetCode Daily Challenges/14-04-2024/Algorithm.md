@@ -21,3 +21,9 @@
     - assign the value to `b`.
 - else assign `b` to 0 (no left nodes)
 - return `a + b`, since we get only the values in left leaves.
+
+### Complexity Analysis
+
+- Time Complexity of the algorithm is `O(n)`, where `n` is the number of `nodes` in the binary tree.
+
+- Space Complexity is `O(h)`, to keep track of the recusive calls, where `h` is the `height` of the binary tree.
