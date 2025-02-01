@@ -36,3 +36,6 @@ int trap(int* height, int heightSize) {
 //         return a;
 //     return b;
 // }
+
+
+/// PETCHI MANI EDITED.
